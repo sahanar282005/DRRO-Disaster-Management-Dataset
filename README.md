@@ -64,28 +64,7 @@ For optimal results with the DRRO pipeline:
 2. **Text:** Use TF-IDF vectorization after removing stop-words.
 3. **Logistics:** Apply Min-Max scaling to continuous supply variables.
 
-## Citation
 
-If you utilize this dataset or the DRRO framework in your research, please cite our work:
-
-```bibtex
-@inproceedings{drro_2026,
-  author    = {Sahana R and Abhijitha G S and Yash M Dalal and Archana Naik},
-  title     = {{DRRO} AI Based System for Real Time Disaster Relief and Resource Management},
-  booktitle = {Proceedings of the International Conference on AI and Disaster Management},
-  year      = {2026},
-  publisher = {IEEE}
-}
-
-@misc{drro_dataset_2026,
-  author       = {Sahana R and Abhijitha G S and Yash M Dalal and Archana Naik},
-  title        = {{DRRO}: Multimodal Disaster Relief and Resource Optimization Dataset},
-  year         = {2026},
-  publisher    = {GitHub},
-  howpublished = {\url{[https://github.com/your-username/your-repo-name](https://github.com/your-username/your-repo-name)}}
-}
-
-```
 
 ## Data Availability Disclaimer
 
@@ -99,11 +78,4 @@ Nitte Meenakshi Institute of Technology (NMIT)
 
 Bengaluru, India
 
-```
 
-### Next Steps for you:
-1.  **Change the URL:** Replace `https://github.com/your-username/your-repo-name` with the actual link to your repo.
-2.  **Upload:** Upload this as a file named `README.md` to your GitHub main page.
-3.  **Images:** If you have a system architecture diagram, you can add `![Architecture](diag2.png)` to the top of the README to make it look even more professional.
-
-```
